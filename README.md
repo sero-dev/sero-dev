@@ -10,6 +10,7 @@ I am currently a Software Engineer where I work on building applications in a mi
 ### Looking for a Coding Buddy
 Don't worry I am, too. Connect with me on Linkedin
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
