@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi I'm Sean,
+Also known as "The Big Panda"
 
-<!--
-**sero-dev/sero-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Software Engineer where I work on building applications in a microservice architecture using primarily .NET. I've built applications ranging from Console applications to cloud-base solutions in Node.js, Python, Java and C++ but I've really fallen in love with the .NET family over the course of this year. I enjoy working as a Full-Stack Engineer, whether it's working on building a React/Angular/Vue web application, designing a Backend services or modeling data for a database system.
+
+### What I'm Currently Working On
+
+### What I Want to Learn
+
+### Looking for a Coding Buddy
+Don't worry I am, too. Connect with me on Linkedin
 
 Here are some ideas to get you started:
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![sero-dev's github stats](https://github-readme-stats.vercel.app/api?username=sero-dev&show_icons=true&theme=prussian)
