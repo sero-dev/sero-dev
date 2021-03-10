@@ -19,5 +19,6 @@ I haven't pushed much of my code to GitHub for the past year. I've mainly kept m
 
 ### Looking for a Coding Buddy
 Don't worry I am, too. Connect with me on Linkedin
+[![](https://img.shields.io/badge/-Sean%20Rodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sero-dev/)](https://www.linkedin.com/in/serodev/)
 
 ![sero-dev's github stats](https://github-readme-stats.vercel.app/api?username=sero-dev&show_icons=true&theme=prussian)
