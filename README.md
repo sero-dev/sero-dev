@@ -23,3 +23,5 @@ Feel free to connect with me \
 [![](https://img.shields.io/badge/-Sean%20Rodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sero-dev/)](https://www.linkedin.com/in/serodev/)
 
 ![sero-dev's github stats](https://github-readme-stats.vercel.app/api?username=sero-dev&show_icons=true&theme=prussian)
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/serodev/im-a-cm-b.svg)](https://www.codementor.io/@serodev?refer=badge)
