@@ -10,9 +10,9 @@ I haven't pushed much of my code to GitHub for the past year. I've mainly kept m
 - [ ] [Portfolio Site](https://github.com/sero-dev/sero-dev.github.io) - The professional portfolio website for myself. Still working on the overall design, but I'll finish it... One day.
 
 ### What I Want to Learn/Improve on
-- [ ] GitHub Workflow
-- [ ] Angular
-- [ ] AWS Technologies
+- [x] GitHub Workflow
+- [x] Angular
+- [x] AWS Technologies
 - [ ] Azure Technologies
 - [ ] Docker & Kubernetes
 - [ ] NoSQL Databases
