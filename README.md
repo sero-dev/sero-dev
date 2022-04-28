@@ -5,8 +5,8 @@ I am currently a Software Engineer where I work on building applications in a mi
 
 ### What I'm Currently Working On
 I haven't pushed much of my code to GitHub for the past year. I've mainly kept my side projects offline but I want to start jumping into the open-source scene. So I created a few projects that I wouldn't mind working with other developers on.
+- [ ] [Panda Cave](https://github.com/sero-dev/Panda-Cave) - An Angular web application utilizing the RecipeBook microservice as well as other future services.
 - [ ] [Job Hunt Service](https://github.com/sero-dev/JobHunt) - A .NET microservice for querying and saving the user's job applications in MongoDB.
-- [ ] [Home in Angular](https://github.com/sero-dev/Home-Angular) - An Angular web application utilizing the Job Hunt microservice as well as other future services.
 - [ ] [Portfolio Site](https://github.com/sero-dev/sero-dev.github.io) - The professional portfolio website for myself. Still working on the overall design, but I'll finish it... One day.
 
 ### What I Want to Learn/Improve on
