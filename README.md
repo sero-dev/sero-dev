@@ -13,7 +13,7 @@ I haven't pushed much of my code to GitHub for the past year. I've mainly kept m
 - [x] GitHub Workflow
 - [x] Angular
 - [x] AWS Technologies
-- [ ] Azure Technologies
+- [x] Azure Technologies
 - [ ] Docker & Kubernetes
 - [ ] NoSQL Databases
 
